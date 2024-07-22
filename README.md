@@ -1,4 +1,4 @@
-# C-Users-SANKALP-SAHU-Downloads-Error404-Deepfake-Project-main.zip
+#Error404-Deepfake-Project-main.zip
 
 ## Introduction to DeepFake
 DeepFake involves the use of artificial intelligence (AI) and deep learning techniques to generate convincing fake content, spanning images, videos, audio, and messages. The technology has the capability to create content that appears authentically real.
