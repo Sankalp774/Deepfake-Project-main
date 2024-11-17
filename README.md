@@ -6,9 +6,8 @@ DeepFake involves the use of artificial intelligence (AI) and deep learning tech
 ![DeepFake Example](https://www.mdpi.com/sensors/sensors-21-07367/article_deploy/html/images/sensors-21-07367-g001.png)
 
 ## Team Members
-- Suhaani Aggarwal
-- Himanshu Agarwal
-- Aditya Arockiadass
+-SANKALP SAHU
+-ANSH GUPTA
 
 ## Types of DeepFake
 - Image
