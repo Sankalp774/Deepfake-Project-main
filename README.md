@@ -76,25 +76,12 @@ The audio dataset used for training and testing was sourced from the "Kaggle Dee
 ![Example](example.png)
 -Similar can be followed for video and image
 
-## Demonstration Video Link
-- https://www.youtube.com/watch?v=bfdiBNi2yJU
+
 
 ## Project Structure
 - .ipynb files used for model training
 - .json and .h5 files to use the model
 - frontend.py renders a stremlit page where in user can upload the files to check if its deepfake
-
-## How to Run 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Suhaani07/Error404-Deepfake-Project
-2. **Navigate to the Repository:**
-   ```bash
-   cd Error404-DeepFake-Detection
-3. **Run the Streamlit Page:**
-   ```bash
-   streamlit run frontend.py
-4. **Upload the required file to test:**
 
 ## Train the .ipynb models
 1. **Upload the ipynb file to Google Colab**
